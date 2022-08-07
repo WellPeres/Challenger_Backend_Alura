@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'db_challenger',
         'USER': 'postgres',
-        'PASSWORD': '19202122',
+        'PASSWORD': 'senhaAlterada=D',
         'HOST': 'localhost'
     }
 }
